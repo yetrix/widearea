@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+$ composer require google/cloud-storage
 
 var fs = require('fs'),
   compressor = require('node-minify');
